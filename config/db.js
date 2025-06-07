@@ -1,6 +1,4 @@
-// config/db.js
 const mongoose = require("mongoose");
-// require('dotenv').config(); // ไม่จำเป็นต้องเรียกที่นี่ ถ้าเรียกที่ index.js แล้ว
 
 const MONGODB_URI = process.env.MONGODB_URI;
 
