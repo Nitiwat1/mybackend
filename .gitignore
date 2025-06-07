@@ -1,0 +1,20 @@
+
+# dependencies
+node_modules/
+
+# build output
+dist/
+.nuxt/
+
+# logs
+*.log
+
+# env files
+.env
+.env.*
+
+# IDEs and OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
